@@ -1,39 +1,25 @@
-# 👨‍💻 Victor Pinheiro — Engenheiro de Software
+# Victor Pinheiro
 
-Sou Engenheiro de Software com foco em desenvolvimento web e backend escalável. Gosto de transformar ideias em sistemas funcionais, bem testados e prontos para produção.
+**Data Engineer & Analytics** — governed, reliable data pipelines on AWS & Azure.
+Turning fragmented data into analytics-ready assets teams can trust.
 
-- 💻 Stack principal: Java (Spring Boot), Angular, Python
-- ☁️ Cloud: AWS (EC2, S3, Lambda, RDS)
-- 🧪 Qualidade: testes automatizados, CI/CD, boas práticas de arquitetura
-- 🎯 Objetivo: entregar software confiável, performático e fácil de manter
+📍 São Paulo, Brazil (GMT-3) · Open to remote roles · Working with a US client
 
-## 🧰 Tecnologias e ferramentas
-- **Backend:** Java (Spring Boot), Python (Flask, FastAPI)
-- **Frontend:** Angular, HTML, CSS
-- **Cloud:** AWS (EC2, S3, Lambda,IAM)
-- **DevOps:** Docker, GitHub Actions, Terraform (básico)
-- **Testes:** JUnit
-- **Banco de dados:** PostgreSQL, MySQL, DynamoDB
+---
 
-## 📌 Projetos em destaque
-- **API REST com Spring Boot + PostgreSQL + autenticação JWT**
-  - CRUD completo, testes com JUnit, deploy em EC2
-- **Dashboard Angular com gráficos dinâmicos + integração com API**
-  - Frontend responsivo, consumo de API REST, deploy no S3
-- **Automação com Python + AWS Lambda**
-  - Script que processa arquivos e envia para S3 automaticamente
+### What I do
+Build ETL/ELT pipelines, Medallion-architecture data lakes, and MDM / data-governance
+frameworks — with a focus on data quality and decisions that hold up in production.
 
-> Cada projeto é pensado para resolver um problema real, com foco em clareza, performance e escalabilidade.
+### Stack
+**Languages** · Python · SQL · PySpark
+**Cloud & Data** · Azure Data Lake · Synapse · Microsoft Purview · AWS (Glue, S3, Athena) · DuckDB
+**Practices** · Medallion (bronze/silver/gold) · ETL/ELT · MDM · Data Governance · GitHub Actions
 
-## 📚 Conteúdo técnico
-- Repositório de estudos e desafios: [em breve]
-- Artigos e tutoriais: [em breve]
+### Featured project
+**[tb-surveillance-datasus](https://github.com/victorpinheiroo/tb-surveillance-datasus)** —
+end-to-end data engineering pipeline on Brazilian public-health surveillance data.
+Medallion architecture, ADR-documented decisions, GitHub-native Parquet, DuckDB dashboard.
 
-- > Sempre aberto a novos desafios e colaborações. Vamos conversar!
-
-
-##  Contato
-- [LinkedIn](https://www.linkedin.com/in/victorpinheiroo)  
-- 📧 vitorpinheirocontato@gmail.com
-
-
+### Contact
+[LinkedIn](https://linkedin.com/in/victorpinheiroo) · vitorpinheirocontato@gmail.com
