@@ -12,8 +12,8 @@ Build ETL/ELT pipelines, Medallion-architecture data lakes, and MDM / data-gover
 frameworks — with a focus on data quality and decisions that hold up in production.
 
 ### Stack
-**Languages** · Python · SQL · PySpark
-**Cloud & Data** · Azure Data Lake · Synapse · Microsoft Purview · AWS (Glue, S3, Athena) · DuckDB
+**Languages** · Python · SQL · PySpark<br>
+**Cloud & Data** · Azure Data Lake · Synapse · Microsoft Purview · AWS (Glue, S3, Athena) · DuckDB<br>
 **Practices** · Medallion (bronze/silver/gold) · ETL/ELT · MDM · Data Governance · GitHub Actions
 
 ### Featured project
